@@ -1,0 +1,3 @@
+[APRILSCRIPTBEGIN]
+[DOWNLOADFILE]https://github.com/yuk7392/April_Public/raw/main/April.Common.dll [TO][%APPLICATION_LOCATION_WITHOUT_EXENAME%]\AprDll.dll
+[APRILSCRIPTEND]
