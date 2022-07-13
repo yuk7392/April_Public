@@ -1,5 +1,0 @@
-[APRILSCRIPTBEGIN]
-[CREATEDIR][%DESKTOP%]\20220713
-[DOWNLOADFILE]https://github.com/yuk7392/April_Public/raw/main/April.Updater.exe [TO][%DESKTOP%]\20220713\updater.exe
-[DOWNLOADFILE]https://github.com/yuk7392/April_Public/raw/main/April.Common.dll [TO][%DESKTOP%]\20220713\April.Common.dll
-[APRILSCRIPTEND]
