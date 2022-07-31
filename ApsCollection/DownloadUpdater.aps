@@ -1,4 +1,0 @@
-[APRILSCRIPTBEGIN]
-[DELETEFILE][%APPLICATION_LOCATION_WITHOUT_EXENAME%]\April.Updater.exe
-[DOWNLOADFILE]https://github.com/yuk7392/April_Public/raw/main/Latest/April.Updater.exe [TO][%APPLICATION_LOCATION_WITHOUT_EXENAME%]\April.Updater.exe
-[APRILSCRIPTEND]
